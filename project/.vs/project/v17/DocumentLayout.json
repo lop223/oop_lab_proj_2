@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|solutionrelative:project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|solutionrelative:project\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoubleLinkedList.h",
+              "DocumentMoniker": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\DoubleLinkedList.h",
+              "RelativeDocumentMoniker": "project\\DoubleLinkedList.h",
+              "ToolTip": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\DoubleLinkedList.h",
+              "RelativeToolTip": "project\\DoubleLinkedList.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAL8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-01T14:38:10.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project.cpp",
+              "DocumentMoniker": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\project.cpp",
+              "RelativeDocumentMoniker": "project\\project.cpp",
+              "ToolTip": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\project.cpp",
+              "RelativeToolTip": "project\\project.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T13:26:46.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
