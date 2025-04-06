@@ -3,6 +3,7 @@
 #include "DoubleLinkedList.h"
 #include "Queue.h"
 #include "Stack.h"
+#include "OutputRestrictedQueue.h"
 
 int main()
 {

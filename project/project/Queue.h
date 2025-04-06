@@ -16,7 +16,7 @@ struct NodeQueue
 template <typename T>
 class Queue
 {
-private:
+protected:
 	std::shared_ptr<NodeQueue<T>> front, back;
 	int size;
 public:
@@ -24,7 +24,7 @@ public:
 
 	~Queue() {}
 
-	void enqueue(T value)
+	void  enqueue(T value) final
 	{
 		auto newNode = std::make_shared<NodeQueue<T>>(value);
 		if (back == nullptr)
@@ -40,7 +40,7 @@ public:
 		size++;
 	}
 
-	T dequeue()
+	T dequeue() final 
 	{
 		if (front == nullptr)
 		{

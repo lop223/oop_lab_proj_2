@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|solutionrelative:project\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|solutionrelative:project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|solutionrelative:project\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3EAAC831-9D5F-423A-AFBA-285FA7A186F0}|project\\project.vcxproj|solutionrelative:project\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,12 +30,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Stack.h",
               "DocumentMoniker": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Stack.h",
               "RelativeDocumentMoniker": "project\\Stack.h",
-              "ToolTip": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Stack.h*",
-              "RelativeToolTip": "project\\Stack.h*",
+              "ToolTip": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Stack.h",
+              "RelativeToolTip": "project\\Stack.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-06T15:12:09.05Z",
@@ -43,12 +43,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Queue.h",
               "DocumentMoniker": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Queue.h",
               "RelativeDocumentMoniker": "project\\Queue.h",
-              "ToolTip": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Queue.h*",
-              "RelativeToolTip": "project\\Queue.h*",
+              "ToolTip": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\Queue.h",
+              "RelativeToolTip": "project\\Queue.h",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwBQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-06T15:00:40.546Z",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "project.cpp",
               "DocumentMoniker": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\project.cpp",
               "RelativeDocumentMoniker": "project\\project.cpp",
               "ToolTip": "D:\\Projects\\\u0421\u002B\u002B\\Labs\\second\\oop_lab_proj_2\\project\\project\\project.cpp",
               "RelativeToolTip": "project\\project.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-01T13:26:46.452Z",
               "EditorCaption": ""
