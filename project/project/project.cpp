@@ -1,35 +1,37 @@
 ﻿#include <iostream>
 #include "SingleLinkedList.h"
 #include "DoubleLinkedList.h"
+#include "Queue.h"
+#include "Stack.h"
 
 int main()
 {
- //   SingleLinkedList<int> listS;
-	//listS.push_back(1);
-	//listS.push_back(12);
-	//listS.push_back(17);
-	//listS.push_back(39);
-	//listS.push_front(0);
-	////listS.insert(0, -12);
-	////listS.erase(2);
 
+	/*Stack<int> stack;
 
-	//std::cout << "List: " << listS << std::endl;
-	//std::cout << "Size: " << listS.getSize() << std::endl;
-	//std::cout << "Third element: " << listS.get(3) << std::endl;
-	//std::cout << "Index of 39: " << listS.find(39) << std::endl;
-	//std::cout << "Is empty?: " << listS.isEmpty() << std::endl;
+	stack.push(1);
+	stack.push(2);
+	stack.push(3);
+	stack.push(4);
+	stack.push(5);
+	stack.push(6);
+	stack.push(7);
+	stack.push(8);
 
-	DoubleLinkedList<int> listD;
-	listD.push_back(1);
-	listD.push_back(5);
-	listD.push_back(17);
-	listD.push_back(30);
-	listD.push_back(112);
-	listD.push_back(45);
+	stack.pop();
+	stack.pop();
+	std::cout << stack.peek() << std::endl;
+	std::cout << stack.isEmpty() << std::endl;
+	stack.printInfo();
+	stack.pop();
+	stack.pop();
+	stack.pop();
+	stack.pop();
+	stack.pop();
+	stack.pop();
+	stack.printInfo();*/
 
-	std::cout << "List: " << listD << std::endl;
-
+	Queue<int> queue;
 
 	return 0;
 }
